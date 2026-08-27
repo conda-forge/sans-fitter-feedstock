@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.2"
+  version: "0.3.0"
   python_min: "3.12"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/sans-fitter/sans_fitter-${{ version }}.tar.gz
-  sha256: 9646566d1ce8dd03d1437a87a24c8b12d084135a6c225fd7fc96d61c33171da3
+  sha256: f16cbdd9ab42a7cc53eb23cf6746157305365dc51554eb1e473975c40399d787
 
 build:
   number: 0
